@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
+    "id": 127886733,
+    "name": "Darkest Times II (ultranerfed)",
+    "author": "doodledolphin1",
+    "creators": ["Ulyloo"],
+    "verifier": "doodledolphin1",
+    "verification": "https://www.youtube.com/watch?v=P1xebRMditg&pp=ygUQZGFya2VzdCB0aW1lcyBpaQ%3D%3D",
+    "percentToQualify": 48,
+    "password": "Free To Copy",
+    "records":
     ]
 }
