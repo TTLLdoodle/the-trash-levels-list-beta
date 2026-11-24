@@ -100,10 +100,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Levels must be verified legitimately and with hearable clicks (unless if you're a mobile player) also fails cut to death before completion
+                        Levels must be verified legitimately and cut the fails to death before completion
                     </p>
                     <p>
-                        Levels but be "bad" in any way, if a level has rate worthy deco the LDM must look bad
+                        Levels but be "bad" in any way
                     <p>
                         you can't submit already existing levels with a little amount of changes unless if it's a recent tab level that isn't another level
                     </p>
