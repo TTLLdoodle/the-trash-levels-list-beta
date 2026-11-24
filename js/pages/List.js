@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Levels must be verified legitimately and with hearable clicks (unless if you're a mobile player) also fails cut to death before completion
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Levels but be "bad" in any way, if a level has rate worthy deco the LDM must look bad
+                    <p>
+                        you can't submit already existing levels with a little amount of changes unless if it's a recent tab level that isn't another level
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Don't nerf levels, hiding it is as bad as regular cheating.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Take the route the verifier took if it affects how hard the level is. (unless if it's a very small swag route)
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Physics bypass isn't allowed and you can put your fps up to 1440 fps
+
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Submit levels/records in the discord server
                     </p>
                 </div>
             </div>
