@@ -100,12 +100,12 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Levels must be verified legitimately and cut the fails to death before completion
+                        Don't use hacks and cut the fails to the death before completion.
                     </p>
                     <p>
                         Levels but be "bad" in any way
                     <p>
-                        you can't submit already existing levels with a little amount of changes unless if it's a recent tab level that isn't another level
+                        you can't submit levels that are with a few changes. Unrated, unknown levels don't apply to this rule
                     </p>
                     <p>
                         Don't nerf levels, hiding it is as bad as regular cheating.
