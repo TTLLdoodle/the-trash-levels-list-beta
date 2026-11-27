@@ -8,6 +8,13 @@
     "percentToQualify": "61",
     "password": "Free To Copy",
     "records": [
-        
+        {
+
+      "user": "FS",
+      "link":"https://www.youtube.com/watch?v=EfGE4P3Tkjg&pp=ygUSc2lnbWEgbWFjaGluZSAxMDAl",
+      "percent": 100,
+      "hz": 480
+
+}        
     ]
 }
